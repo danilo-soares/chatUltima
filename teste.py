@@ -2,7 +2,8 @@ import sqlite3
 
 if(True):
     print("Verdadeiro")
-else:
-    print("Falso")
+
+if(True):
+    print("Verdadeiro")
     
 print("Teste")

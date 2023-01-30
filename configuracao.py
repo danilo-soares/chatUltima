@@ -6,3 +6,5 @@ else:
     print("Falso")
     
 print("Teste")
+
+print("Teste")
