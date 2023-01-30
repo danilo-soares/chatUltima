@@ -2,7 +2,10 @@ import sqlite3
 
 if(True):
     print("Verdadeiro")
-else:
+elif(False):
     print("Falso")
+
+if(True):
+    print("Verdadeiro")
     
 print("Teste")
